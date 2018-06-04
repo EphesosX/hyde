@@ -7,7 +7,7 @@ plugins:          [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Thomas Tu''s Website
+title:            Thomas Tu's Website
 description:      'Website.'
 url:              https://ephesosx.github.io
 baseurl:          ""
